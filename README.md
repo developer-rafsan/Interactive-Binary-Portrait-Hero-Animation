@@ -1,5 +1,7 @@
 # Interactive Binary Portrait Hero Animation
 
+![Interactive Binary Portrait Hero Animation thumbnail](assets/github-thumbnail.jpg)
+
 A standalone, responsive portfolio hero built with HTML, CSS, and the Canvas API. It recreates the binary portrait artwork from the original portfolio and adds interactive particle motion, scrambled text reveal, and staggered entrance animations.
 
 ## Preview
@@ -22,13 +24,14 @@ Open [http://localhost:4173](http://localhost:4173) in a browser. Stop the serve
 .
 ├── app.js
 ├── assets/
+│   ├── github-thumbnail.jpg
 │   └── rafsan-hero.webp
 ├── index.html
 ├── package.json
 └── styles.css
 ```
 
-`assets/rafsan-hero.webp` is the transparent source portrait used to render the canvas artwork. To use a different portrait, replace this file while keeping its filename and transparent background.
+`assets/github-thumbnail.jpg` is the README cover. `assets/rafsan-hero.webp` is the transparent source portrait used to render the canvas artwork. To use a different portrait, replace the WebP file while keeping its filename and transparent background.
 
 ## Technologies
 
