@@ -1,0 +1,9 @@
+{
+  "name": "portfolio-hero-image",
+  "description": "A responsive portfolio hero with a code-rendered interactive binary portrait.",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "python3 -m http.server 4173"
+  }
+}
